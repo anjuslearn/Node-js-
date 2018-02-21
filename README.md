@@ -31,3 +31,16 @@ NPM (Node package Manager) provides two functionalities:
 
 - Online repository for Node.js packages
 - Command line utility for installing packages, version management and dependency management of Node.js packages
+
+# How to install node.js?
+1. Go to the site https://nodejs.org/en/download/
+2. Double click on the downloaded .msi (32/64 bit)file to start the installation. Click the Run button in the first screen to begin the installation
+
+# Verify that Node.js was Properly installed
+1. command in your Command Prompt (regardless of if you're using cmd.exe, Powershell, or any other command prompt)
+$ node -v
+2. If Node.js was installed fully, the command prompt will print something
+$ node -v // The command we ran - prints out the version of Node.js that's currently installed 
+v6.9.5 // The printed version of Node.js that's currently installed .
+
+
